@@ -56,7 +56,6 @@ See `reports/executive_summary.pdf` for the full write-up. Highlights:
 - Technology category drives the highest total sales
 - Sales show clear seasonality, peaking toward year-end
 - Customer segmentation identified 4 distinct groups (VIP, at-risk, low-value, active frequent buyers)
-- [Add your own top findings here]
 
 ## Author
 Harsh — Data Analytics Intern, ApexPlanet Software Pvt. Ltd.
